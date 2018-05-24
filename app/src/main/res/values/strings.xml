@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">appTouch 3.0</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_services">Services</string>
+    <string name="title_samples">Samples</string>
+    <string name="title_contact">Contact</string>
 </resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>txtViewFragTwo_text1</key>
+        <value>Text from remote_config file</value>
+    </entry>
+    <entry>
+        <key>imageViewFragTwo_image1</key>
+        <value>https://www.google.com/images/srpr/logo11w.png</value>
+    </entry>
+
+
+    remotedata_one
+</defaultsMap>
+    <!-- END xml_defaults -->
+
